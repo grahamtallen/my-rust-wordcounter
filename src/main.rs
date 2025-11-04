@@ -1,7 +1,4 @@
-use std::{
-    fs,
-    sync::{Arc, Mutex},
-};
+use std::fs;
 
 fn main() {
     let files = ["file1.txt", "file2.txt", "file3.txt"];
